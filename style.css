@@ -1,0 +1,11 @@
+html{
+    background-image:linear-gradient( rgba(185, 62, 62, 0.555), rgba(185, 62, 62, 0.555)), url(images/bg-intro-desktop.png);
+}
+
+.dark-overlay{
+    background-image:linear-gradient(rgba(185, 62, 62, 0.555), rgba(185, 62, 62, 0.555)), url(images/bg-intro-desktop.png);
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
